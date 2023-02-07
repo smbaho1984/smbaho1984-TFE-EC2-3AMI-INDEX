@@ -1,1 +1,1 @@
-# smbaho1984-TFE-EC2-3AMI-INDEX
+# smbaho1984-TFE-EC2-3ami
